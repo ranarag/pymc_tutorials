@@ -1,1 +1,1 @@
-# pymc tutorials in folder(Downloads/testing) #
+# pymc tutorials in folder #
